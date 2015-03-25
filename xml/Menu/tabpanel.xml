@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact/view/tabpanel</path>
+    <page_callback>CRM_Tabpanel_Page_Tabpanel</page_callback>
+    <title>Tab Panel</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

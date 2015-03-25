@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<extension key="coop.symbiotic.tabpanel" type="module">
+  <file>tabpanel</file>
+  <name>Contact Tab Panel</name>
+  <description>Regroup several custom groups in one contact tab</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>samuelsov</author>
+    <email>samuel@symbiotic.coop</email>
+  </maintainer>
+  <releaseDate>2015-03-24</releaseDate>
+  <version>0.1</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.4</ver>
+    <ver>4.5</ver>
+  </compatibility>
+  <comments></comments>
+  <civix>
+    <namespace>CRM/Tabpanel</namespace>
+  </civix>
+</extension>
